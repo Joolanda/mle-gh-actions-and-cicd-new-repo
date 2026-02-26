@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = gs://jolanda-dvc-green-taxi-2025-01-1772120609/
